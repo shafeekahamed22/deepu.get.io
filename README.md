@@ -1,1 +1,1 @@
-# deepu.get.io
+# deepu.git.io
